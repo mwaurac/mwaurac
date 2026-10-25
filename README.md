@@ -11,7 +11,7 @@ Welcome to my GitHub profile!
 Here you'll find all my public repos with links.
 
 ## Featured Projects
-- **[kiln](https://github.com/mwaurac/kiln)** – A tiny tensor lib for llm inference.
+- **[spindle.rs](https://github.com/mwaurac/spindle.rs)** – A tiny tensor lib for llm inference.
 
 
 ## Contact
